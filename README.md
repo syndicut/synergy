@@ -20,7 +20,7 @@ Synergy
     
         gem 'mysql2', '~> 0.3.11'
         gem 'active_reload'
-        gem 'synergy', '~> 0.70.0', :git => 'git://github.com/secoint/synergy.git'
+        gem 'synergy', '~> 0.70.0', :git => 'git://github.com/syndicut/synergy.git'
         gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
         gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git', :branch => '0-70-stable'
         gem 'spree_static_content', :git => 'git://github.com/spree/spree_static_content', :branch => '0-70-stable'
