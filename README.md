@@ -23,6 +23,7 @@ Synergy
         gem 'synergy', '~> 0.70.0', :git => 'git://github.com/secoint/synergy.git'
         gem 'spree_i18n', :git => 'git://github.com/spree/spree_i18n.git'
         gem 'spree_blue_theme', :git => 'git://github.com/spree/spree_blue_theme.git', :branch => '0-70-stable'
+        gem 'spree_static_content', :git => 'git://github.com/spree/spree_static_content', :branch => '0-70-stable'
         # gem 'synergy_default_theme', '~> 1.0.2'
     
 1. Выполните следующие команды:
